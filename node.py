@@ -3,14 +3,18 @@ class color:
     def __init__(self, theColor, theWords):
         self.color = theColor
         self.words = theWords
+        self.totalWords = len(theWords)
         self.colorLoc = theWords.index(theColor)
         self.wordsAndWeights = []
         self.wordWeight()
 
     def wordWeight(self):
+        # word if distance is not less than 0 -> 5
+        # each word will have weight to color and percentage of times word appears
+        # and how many times it appears
         for word in self.words:
-            if word != self.color:
-                self.wordsAndWeights.append([word, abs(self.words.index(word) - self.colorLoc)])
+            if self.words and word not in self.words:
+                self.wordAndWeights.append([word, ])
 
     def colorAgain(self, theColor, theWords):
         newColorLoc = theWords.index(theColor)
