@@ -285,7 +285,7 @@ TABLE OF CONTENTS
 
   APPENDIX A. Fallacies in the Hydraulics of Streams                 209
 
-      ”  B. Pitching and Bed Protection                              212
+        B. Pitching and Bed Protection                              212
 
   INDEX                                                              213
 
@@ -308,8 +308,8 @@ Tista, by Harcourt on movable weirs and on estuaries, by Strange on
 reservoirs, and by Ottley and Brightmore, Gore and Wilson, and Hill
 on the stresses in masonry dams; of the articles by Bligh[2] on weirs
 with porous foundations and by Deacon[3] on reservoir capacity, of
-the Indian Government paper by Spring on “River Control on the Guide
-Bank System,” and of the Punjab Government paper containing Kennedy’s
+the Indian Government paper by Spring on River Control on the Guide
+Bank System, and of the Punjab Government paper containing Kennedy’s
 remarks on silting and scour in the Sirhind Canal. The two papers last
 mentioned are not easily accessible, and they contain matter of great
 interest. The important points, often obscured by masses of detail or
@@ -455,10 +455,10 @@ Matters connected with the hydraulics of open streams seem to lend
 themselves in a peculiar way to loosely expressed remarks and
 fallacious opinions. The set of a stream towards a bank is sometimes
 supposed to profoundly affect the discharge of a diversion or branch.
-Its effect is simply that of “velocity of approach,” which, as is
+Its effect is simply that of velocity of approach, which, as is
 well known, is quite small with ordinary velocities, and is merely
 equivalent to a very small increase of head. Narrow bridges or other
-works are sometimes said to seriously “obstruct” a stream without any
+works are sometimes said to seriously obstruct a stream without any
 observations being made of the fall in the water surface through the
 bridge. This fall is the only measure of the real obstruction.[7]
 
@@ -567,7 +567,7 @@ not do so some allowances can be made for this.
 
 
 2. =Available Rainfall.=--The area drained by a stream is called its
-“catchment area” or “basin.” The available rainfall in a catchment area
+catchment area or basin. The available rainfall in a catchment area
 is the total fall less the quantity which is evaporated or absorbed
 by vegetation. The evaporation does not chiefly take place directly
 from the surface. Rain sinks a short distance into the ground, and
@@ -575,7 +575,7 @@ is subsequently evaporated. The available rainfall does not all flow
 directly into the streams. Some sinks deep into the ground and forms
 springs, and these many months later augment the flow of the stream and
 maintain it in dry seasons. The available rainfall of a given catchment
-area is known as the “yield” of that area.
+area is known as the yield of that area.
 
 Estimation of the available rainfall is necessary chiefly in cases
 where water is to be stored in reservoirs for town supply or
@@ -613,21 +613,21 @@ supply which afterwards maintained the flow in the dry season.
   |                        |   Acres.    |                 | Inches. |Ratio to Total.|                       |
   |Nagpur, Central India   |    4,224    |June to September|   44    |      ·40      |                       |
   |                        |             |(Monsoon period).|         |               |                       |
-  |   ”          ”         |      ”      |      ”          |   30    |      ·27      |                       |
+  |                      |            |                |   30    |      ·27      |                       |
   |Mercara, South India    |       48    | Whole year.     |  119    |      ·37      |Gravelly soil overlying|
   |King William’s Town,    |             |                 |         |               |  granite.             |
-  |  Cape Colony           |   67,200    |     ”           |   27    |      ·21      |Hills with forest and  |
+  |  Cape Colony           |   67,200    |                |   27    |      ·21      |Hills with forest and  |
   |Near Cape Town, Cape    |             |                 |         |               |  bush.                |
   |  Colony                |      110    |May to October   |   31·5  |      ·51      |Bare hills.            |
   |Near Cape Town, Cape    |             |(rainy season).  |         |               |                       |
-  |  Colony                |    2,208    |     ”           |   43    |      ·40      |    ”                  |
+  |  Colony                |    2,208    |                |   43    |      ·40      |                      |
   |Melbury Moor, Devonshire|     ...     | Whole year.     |   50·7  |      ·54      |                       |
-  |Newport, Monmouthshire  |     ...     |     ”           |   40    |      ·40      |                       |
-  |Newport, Isle of Wight  |     ...     |     ”           |   32    |      ·40      |                       |
+  |Newport, Monmouthshire  |     ...     |                |   40    |      ·40      |                       |
+  |Newport, Isle of Wight  |     ...     |                |   32    |      ·40      |                       |
   |Basin of Nepean River,  |  284 sq.    |                 |         |               |                       |
-  |  N.S.W.                |   miles     |     ”           |   44·3  |      ·44      |Bare, broken ground.   |
+  |  N.S.W.                |   miles     |                |   44·3  |      ·44      |Bare, broken ground.   |
   |Basin of Cataract River,|             |                 |         |               |                       |
-  |  N.S.W.                | 70 sq. miles|     ”           |   54    |      ·45      |     ”      ”          |
+  |  N.S.W.                | 70 sq. miles|                |   54    |      ·45      |                     |
   +------------------------+-------------+-----------------+---------+---------------+-----------------------+
 
 The following statement shows how the available rainfall may vary from
@@ -643,9 +643,9 @@ vol. clxxxi.):--
   |1895 |  34·1   |      ·84      |Heavy rain falling on saturated area.|
   |1896 |  33·7   |      ·28      |Evenly distributed fall.             |
   |1897 |  44·7   |      ·49      |Heavy rains in May.                  |
-  |1898 |  56·4   |      ·45      |  ”     ”      February (15 ins.).   |
-  |1899 |  54·9   |      ·43      |  ”     ”      August (11·5 ins.).   |
-  |1900 |  26·1   |      ·50      |  ”     ”      May and July.         |
+  |1898 |  56·4   |      ·45      |             February (15 ins.).   |
+  |1899 |  54·9   |      ·43      |             August (11·5 ins.).   |
+  |1900 |  26·1   |      ·50      |             May and July.         |
   |1901 |  37·4   |      ·11      |Evenly distributed fall.             |
   |1902 |  29·9   |      ·06      |                                     |
   |1903 |  41·7   |      ·23      |No heavy fall.                       |
@@ -693,7 +693,7 @@ where flat, the loss is often 17 to 20 inches. All the above figures
 are, however, general averages. The proper estimation of the available
 rainfall at any place in any country depends a great deal on experience
 and judgment, and on the extent to which figures for actual cases of
-similar character are available. Regarding the “run-off” from saturated
+similar character are available. Regarding the run-off from saturated
 land during short periods, see CHAP. XII., _Arts. 1_ and _2_.
 
 
@@ -1063,18 +1063,18 @@ THE SILTING AND SCOURING ACTION OF STREAMS
 
 
 1. =Preliminary Remarks.=--When flowing water carries solid substances
-in suspension, they are known as “silt.” Material is also moved by
+in suspension, they are known as silt. Material is also moved by
 being rolled along the bed of the stream. The difference between silt
 and rolled material is one of degree and not of kind. Material of
 one kind may be rolled and carried alternately. The quantity of silt
-present in each cubic foot of water is called the “charge” of silt.
+present in each cubic foot of water is called the charge of silt.
 Silt consists chiefly of mud and fine sand; rolled material of sand,
 gravel, shingle, and boulders. When a stream erodes its channel, it is
-said to “scour.” When it deposits material in its channel, it is said
-to “silt.” Both terms are used irrespective of whether the material is
+said to scour. When it deposits material in its channel, it is said
+to silt. Both terms are used irrespective of whether the material is
 silt or rolled material. A stream of given velocity and depth can carry
 only a certain charge of silt. When it is carrying this it is said to
-be “fully charged.”
+be fully charged.
 
 If a stream has power to scour any particular material from its
 channel, it has power to transport it; but the converse is not true.
@@ -1088,7 +1088,7 @@ affected more than, or in a different manner to, the other--alter its
 position laterally whether or not it is altering its bed level, and
 _vice versa_.
 
-The cross-section of a stream is generally “shallow,” _i.e._ the width
+The cross-section of a stream is generally shallow, _i.e._ the width
 of the bed is greater than the combined submerged lengths of the sides,
 and the action on the bed is generally greater than on the sides.
 
@@ -1114,7 +1114,7 @@ velocity and in the quantity of material brought into them. Hence the
 action is not constant. A stream may silt at one season and scour at
 another, maintaining a steady average. When this happens to a moderate
 extent, or when the stream never silts or scours appreciably, it is
-said to be in “permanent régime,” or “stable.” Most streams in earthen
+said to be in permanent régime, or stable. Most streams in earthen
 channels are either just stable and no more, or are unstable.
 
 Waves, whether due to wind or other agency, may cause scour, especially
@@ -1199,7 +1199,7 @@ as V^2 or thereabouts. But, given the charge of silt, the weight of
 silt in a vertical column of water whose base is 1 square foot is as D.
 Therefore the power of a stream to support silt is as V^2 and inversely
 as D. The silt charge which a stream of depth D can carry is as V^{½}.
-V is called the “critical velocity” for that depth, and is designated
+V is called the critical velocity for that depth, and is designated
 as V_{0}.
 
 The full charge must be affected by the nature of the silt. The
@@ -1210,7 +1210,7 @@ equal depths and velocities are fully charged, one with particles of
 mud and the other with particles of sand, the latter will sink more
 rapidly and will have to be more frequently thrown up. They will be
 fewer in number. From some observations referred to by Kennedy (_Punjab
-Irrigation Paper_, No. 9, “Silt and Scour in the Sirhind Canal,” 1904),
+Irrigation Paper_, No. 9, Silt and Scour in the Sirhind Canal, 1904),
 it appears that in a fully charged stream which carried 1/3300 of
 its volume of a mixture of mud and sand of various grades, sand of a
 particular degree of coarseness formed only 1/35,000 of the volume of
@@ -1429,12 +1429,12 @@ velocity is probably less than the mean velocity in the ratio of about
 ·6 to 1 in rough channels, and about ·7 to 1 in smooth channels:--
 
   Gravel as large as peas           ·70 feet per second
-    ”           ”    French beans  1·0   ”    ”    ”
-    ”  1 inch in diameter          2·25  ”    ”    ”
-  Pebbles 1½ inch in diameter      3·33  ”    ”    ”
-  Heavy shingle                    4·0   ”    ”    ”
-  Soft rock, brick, earthenware    4·5   ”    ”    ”
-  Rock of various kinds            6·0   ”    ”    ”
+                   French beans  1·0           
+      1 inch in diameter          2·25          
+  Pebbles 1½ inch in diameter      3·33          
+  Heavy shingle                    4·0           
+  Soft rock, brick, earthenware    4·5           
+  Rock of various kinds            6·0           
                                      and upward.
 
 The figures for brick, earthenware, and rock can apply only to
@@ -1554,7 +1554,7 @@ with vegetation it is not easy for a stream to scour out a new channel.
 
 The effect of bends on the velocity of a stream is not well understood.
 In case of a bend of 90° the increased resistance to flow when the bend
-is absolutely sudden (a sudden bend is known as an “elbow”) amounts
+is absolutely sudden (a sudden bend is known as an elbow) amounts
 perhaps to V^2/(2_g_). Whether it is greater or less in the case of
 a gentle bend of 90° is not known. In the case of a pipe there is a
 certain radius which gives a minimum resistance (_Hydraulics_, CHAP.
@@ -1784,7 +1784,7 @@ is only occasionally submerged. In this case the deposit of a small
 bank of silt along the edge of the berm next the stream will prevent
 the access of fresh supplies of silt-bearing water to the parts further
 away. Gaps should be cut in the bank of silt at intervals, and cross
-banks made to form “silting tanks,” as shown in fig. 4. The inlets to
+banks made to form silting tanks, as shown in fig. 4. The inlets to
 the tank should be large, and the outlets small, so that the water in
 the tank may have little velocity. It is not, however, correct to have
 the outlet so small--unless the water contain very little silt--that
@@ -1816,7 +1816,7 @@ deposit there.
 4. =Arrangements at Bifurcations.=--At a bifurcation, as where a branch
 takes off from a canal, it is possible to reduce the quantity of rolled
 material entering the canal by raising its bed or constructing a
-weir or “sill” in its head. This arrangement may have great effect in
+weir or sill in its head. This arrangement may have great effect in
 excluding boulders, shingle, or gravel. As regards rolled sand, it has
 much less effect than might be expected (CHAP. IV., _Art. 2_). If the
 canal is reduced in width (fig. 5) there will be eddies below the bed
@@ -2047,7 +2047,7 @@ Sometimes spurs are made to slope downwards (fig. 10), and they then
 cause less disturbance of the water and less scour than if built to the
 form shown by the dotted line. Such spurs are sometimes combined with
 a low wall running across the bed of the stream, the whole forming a
-“profile” of the cross-section to which it is intended to bring the
+profile of the cross-section to which it is intended to bring the
 channel. Regarding such walls, see CHAP. V., _Art. 6_. When a spur is
 long it may have small subsidiary spurs (fig. 11) to reduce the rush of
 water along it; or its end may have to be protected in the same manner
@@ -2224,7 +2224,7 @@ apron is laid at the time of low water on the sandbank or bed of the
 stream. If necessary, the ground is specially levelled for it. It is
 intended to slip when scour occurs. The following dimensions of the
 apron are given by Spring (_Government of India Technical Paper_, No.
-153, “River Training and Control on the Guide Bank System,” 1904).
+153, River Training and Control on the Guide Bank System, 1904).
 The probable maximum depth of scour can be calculated as explained
 in CHAP. XI., _Art. 3_. If this depth, measured from the toe of the
 slope pitching is D, and if T is the thickness considered necessary
@@ -2275,7 +2275,7 @@ the scoured material will deposit in the channel downstream of the
 diversion must be taken into consideration; also the question whether
 the diversion will continue to enlarge itself more than is desirable.
 The velocity in the diversion will be a maximum if its section is
-of the “best form,” _i.e._ if its bed and sides are tangents to a
+of the best form, _i.e._ if its bed and sides are tangents to a
 semicircle whose diameter coincides with the water surface, but this
 may not (CHAP. IV., _Art. 6_) be the section which will give most
 scour. In order to prevent the enlargement of the diversion taking
@@ -2408,7 +2408,7 @@ and trouble incurred, in futile attempts to close breaches in banks, or
 gaps in dams.
 
 Sometimes the gap is closed by sinking a barge loaded with stones, or
-by sinking a “cradle” or large mattress made of fascines, taken out to
+by sinking a cradle or large mattress made of fascines, taken out to
 the site by four boats, one supporting each corner, and then loaded
 with stones and sunk. Another method is to run out a floating mattress
 of fascines from one side of the gap to the middle and sink it, then
@@ -2471,7 +2471,7 @@ broke into the Salton Sink--a valley covering 4000 square miles.
 Unsuccessful attempts were made to close the stream by two rows of
 piles with willows and sandbags between them, by a gate 200 feet long,
 supported on 500 piles, and by twelve gates each 12 feet wide. A
-“rock-fill” dam was then constructed on a mattress 100 feet wide and
+rock-fill dam was then constructed on a mattress 100 feet wide and
 1·5 feet thick. The river, which was 600 feet wide, broke through, but
 was stopped by the construction of three parallel rock-fill dams in the
 gap (_Min. Proc. Inst. C.E._, vol. clxxi.).
@@ -2537,17 +2537,17 @@ VII.
 
 2. =Dredging and Excavating.=--When a flowing stream is to be deepened,
 the work is usually done by dredgers. Dredgers can remove mud, sand,
-clay, boulders, or broken pieces of rock. The “bucket ladder” dredger
-is the commonest type. The “dipper” dredger is another. Both these
-can work in depths of water ranging up to 35 feet. The “grab bucket”
-dredger can work up to any depth and in a confined space. The “suction
-dredger” drawls up mud or sand mixed with water. A dredger may be
+clay, boulders, or broken pieces of rock. The bucket ladder dredger
+is the commonest type. The dipper dredger is another. Both these
+can work in depths of water ranging up to 35 feet. The grab bucket
+dredger can work up to any depth and in a confined space. The suction
+dredger drawls up mud or sand mixed with water. A dredger may be
 fitted with a hopper or movable bottom, by means of which it can
 discharge the dredged material--this, however, involves cessation
 of work while the dredger makes a journey to the place where the
 material is to be deposited--or it can discharge into hopper barges or
 directly on to the shore by means of long shoots. For small works in
-comparatively shallow water the “bag and spoon” dredger, worked by two
+comparatively shallow water the bag and spoon dredger, worked by two
 men, can be used.
 
 When rock has to be removed under water it is blasted or broken up by
@@ -2657,8 +2657,8 @@ but they are hardly likely to be suitable and satisfactory in all cases.
 5. =Training and Canalising.=--The steps so far described, together
 with any of those described in CHAPS. V. and VI., exhaust the list
 of what can be done so long as only the cross-section of a stream is
-dealt with. This is often called the “regulation” of a stream, though
-“training” is a more satisfactory term.[10]
+dealt with. This is often called the regulation of a stream, though
+training is a more satisfactory term.[10]
 
 [Illustration: FIG. 28.]
 
@@ -2767,10 +2767,10 @@ importance, are given under Embankments (CHAP. XII., _Art. 6_).
 
 2. =Navigation Canals.=--A navigation canal is sometimes all on one
 level, but generally different reaches are at different levels, the
-change being made by means of locks. A “lateral” canal--the most common
+change being made by means of locks. A lateral canal--the most common
 kind--runs along a river valley more or less parallel to the river. It
 is frequently cheaper to construct such a canal than to canalise the
-river. A “summit” canal crosses over a ridge and connects two valleys.
+river. A summit canal crosses over a ridge and connects two valleys.
 A navigation canal requires a supply of water to make good the losses
 which occur by lockage, leakage, or absorption and evaporation. A canal
 may be of any size, according to the size of the boats which are to be
@@ -2841,15 +2841,15 @@ of any resulting benefits.
 
 
 3. =Locks.=--An ordinary lock is shown in fig. 29A. The space above the
-head gates is called the “head bay,” and that below the tail gates the
-“tail bay.” The floor of the lock is often an inverted arch. Sometimes
-the floor is of cast-iron. The “lift wall” is generally a horizontal
+head gates is called the head bay, and that below the tail gates the
+tail bay. The floor of the lock is often an inverted arch. Sometimes
+the floor is of cast-iron. The lift wall is generally a horizontal
 arch. The gates when closed press at their lower ends against the
-“mitre sills”; and the vertical “mitre posts” at the edges of the
+mitre sills; and the vertical mitre posts at the edges of the
 gates meet and are pressed together. The gate, in opening and closing,
-revolves above the cylindrical “heel post”--which stands in the “hollow
-quoin” of the lock wall--and when fully open is contained in the “gate
-recess.”
+revolves above the cylindrical heel post--which stands in the hollow
+quoin of the lock wall--and when fully open is contained in the gate
+recess.
 
 A lock is always strongly built, of masonry or concrete. The walls have
 to withstand the earth pressure when the lock is laid dry for repairs.
@@ -2882,7 +2882,7 @@ labour in working the locks.
 
 Let L be the volume of water contained in a lock between the levels of
 the upper and lower reaches, and let B be the submerged volume of a
-boat. The “lockage” or volume of water withdrawn from the upper reach
+boat. The lockage or volume of water withdrawn from the upper reach
 of the canal is shown in the following statement:--
 
   +---------+---------+------------+-----------+---------+-------------------------+
@@ -2893,11 +2893,11 @@ of the canal is shown in the following statement:--
   +---------+---------+------------+-----------+---------+-----------+-------------+
   |    1    |    1    |   Down.    |  Empty.   |  Empty. |   L - B   |    L - B    |
   |         |         |            |           |         |           |             |
-  |    2    |    1    |     ”      |   Full.   |    ”    |     - B   |      - B    |
+  |    2    |    1    |           |   Full.   |        |     - B   |      - B    |
   |         |         |            |           |         |           |             |
   |    3    |    1    |    Up.     |  Empty.   |  Full.  |   L + B   |   _m_L + B  |
   |         |         |            |           |         |           |             |
-  |    4    |    1    |     ”      |   Full.   |    ”    |   L + B   |    L + B    |
+  |    4    |    1    |           |   Full.   |        |   L + B   |    L + B    |
   |         |         |            |           |         |           |             |
   |    5    |  2_n_   |  Up and    | Going     |  Going  |  _n_L     |    _mn_L    |
   |         |         |   down     |down, full.|  down,  |           |             |
@@ -2907,16 +2907,16 @@ of the canal is shown in the following statement:--
   |         |         |            |           |         |           |             |
   |    6    |   _n_   |   Down.    |   Empty.  |  Empty. | _n_L-_n_B | _n_L - _n_B |
   |         |         |            |           |         |           |             |
-  |    7    |   _n_   |     ”      |   Full.   |    ”    |  (_n_-1)L | (_n_ - 1)L  |
+  |    7    |   _n_   |           |   Full.   |        |  (_n_-1)L | (_n_ - 1)L  |
   |         |         |            |           |         |  - _n_B   |   -_n_B     |
   |         |         |            |           |         |           |             |
   |    8    |   _n_   |    Up.     |   Empty.  |  Full.  | _n_L+_n_B |(_m_+_n_-1)L |
   |         |         |            |           |         |           |     +_n_B   |
   |         |         |            |           |         |           |             |
-  |    9    |   _n_   |     ”      |   Full.   |    ”    | _n_L+_n_B | _n_L + _n_B |
+  |    9    |   _n_   |           |   Full.   |        | _n_L+_n_B | _n_L + _n_B |
   |         |         |            |           |         |           |             |
   |   10    | { _n_   |   Down.}   |           |         |           |             |
-  |         | { _n_   |   Up.  }   |     ”     |    ”    | (2_n_-1)L |(_m_+2_n_-2)L|
+  |         | { _n_   |   Up.  }   |          |        | (2_n_-1)L |(_m_+2_n_-2)L|
   +---------+---------+------------+-----------+---------+-----------+-------------+
 
 In the case of a single lock, if two boats are to pass through, one
@@ -2958,7 +2958,7 @@ and thus save lockage. At the Eastham lock, where the Manchester Ship
 Canal descends into the estuary of the Mersey, there is, below the tail
 gates, an extra pair of gates opening towards the estuary, so that the
 lock can be worked when the water of the estuary is higher than that
-in the canal. Water can be economised by means of a “side-pond,” into
+in the canal. Water can be economised by means of a side-pond, into
 which the upper portion of the water from a lock can be discharged and
 utilised again when the lock has to be filled. If two locks are built
 side by side, each acts as a side-pond to the other. Two flights of
@@ -2967,7 +2967,7 @@ locks can be built side by side.
 Sometimes instead of a lock there is an inclined plane, up or down
 which are drawn on rails caissons containing water in which the boats
 float. The rails extend below the water-levels of the two reaches, and
-the caissons can thus be run under the boats. “Lifts” have also been
+the caissons can thus be run under the boats. Lifts have also been
 constructed by which the boats can be lifted bodily and swung over from
 one reach to the other.
 
@@ -3021,7 +3021,7 @@ irrigation.
 Upstream of a weir there is more or less tendency for silt to deposit,
 but it by no means follows that there will be deposit (CHAP. IV., _Art.
 2_, last par., and _Art. 3_, last par.). When deposit of sand or mud is
-feared, small horizontal passages, known as “weep holes,” may be left
+feared, small horizontal passages, known as weep holes, may be left
 in the weir at the level of the upstream bed. In the old Nile barrages
 iron gratings were provided, but they were needlessly large.
 
@@ -3072,14 +3072,14 @@ for. The lock may be placed close to the weir or it may be in a side
 channel, the upstream end of the lock being about in a line with the
 weir. Locks have already been discussed in CHAP. IX., _Art. 3_.
 
-Frequently a “salmon ladder” has to be provided. It consists of a
+Frequently a salmon ladder has to be provided. It consists of a
 series of steps or a zigzag arrangement so that the velocity of the
 water is not too great for the fish to ascend.
 
 
 2. =General Design of a Weir.=--Unless the bed and sides of the channel
 are of rock, a weir has side walls and rests on a strong floor or
-“apron.” These need not extend far upstream, but must extend some way
+apron. These need not extend far upstream, but must extend some way
 downstream because of the scouring action of the water.[11] A common
 type of weir is shown in fig. 32. The downstream face is made sloping,
 so that the water may not fall vertically and strike the floor below
@@ -3218,7 +3218,7 @@ downstream floor a length E C which must be of masonry or concrete, and
 that this arrangement, by shifting the line of hydraulic gradient from
 A E to F E, gives a reduced upward pressure on the downstream floor.
 
-The length E N to which pitching, if of “rip-rap” type, should extend
+The length E N to which pitching, if of rip-rap type, should extend
 is given by Bligh as 10/_s_ √(H/10) √(_q_/75), where _q_ is the maximum
 discharge in cubic feet per second passing over a 1-foot length of the
 weir, and H is the head A B.
@@ -3263,7 +3263,7 @@ material, except the face-work and the three walls, is dry rubble.
 
 When the reach of channel downstream of a weir has a bed-level much
 lower than that of the upstream reach--this is often the case in
-irrigation canals,--the work is known as a “fall” or “rapid.” At a
+irrigation canals,--the work is known as a fall or rapid. At a
 fall the water generally drops vertically, and a cistern (fig. 38) is
 provided. The falling water strikes that in the cistern and the shock
 on the floor is greatly reduced. An empirical rule for the depth of the
@@ -3323,9 +3323,9 @@ face of a rapid is vertical, or has a steep slope.
 below the heads of irrigation canals generally extend across the
 greater part of the river bed. In the remaining part--generally the
 part nearest the canal head--there is, instead of the weir, a set of
-openings or “under-sluices” (fig. 40) with piers having iron grooves in
+openings or under-sluices (fig. 40) with piers having iron grooves in
 which gates can slide vertically. The piers may be twenty feet apart
-and five feet thick. The gates are worked by one or more “travellers,”
+and five feet thick. The gates are worked by one or more travellers,
 which run on rails on the arched roadway. The traveller is provided
 with screw gearing to start a gate which sticks. When once started it
 is easily lifted by the ordinary gears. The gates descend by their own
@@ -3351,11 +3351,11 @@ grooves like those, above described, at Indian headworks.
 
 [Illustration: FIG. 42.]
 
-The “dam” across the Ravi, at the head of the Sidhnai Canal in the
+The dam across the Ravi, at the head of the Sidhnai Canal in the
 Punjab, also consists of sluice openings without a weir. The piers are
 connected by horizontal beams (fig. 42), against which, and against
 a sill at their lower ends, rest a number of nearly vertical timber
-“needles,” fitting close together, which can be removed when necessary
+needles, fitting close together, which can be removed when necessary
 by men standing on a foot-bridge. In floods the needles are all removed
 and laid on the high-level bridge (not shown in the drawing), the
 foot-bridge being then submerged. With needles the span between two
@@ -3447,7 +3447,7 @@ weir. A weir of this kind can be used for greater depths of water than
 the ordinary frame weir.
 
 In some cases the horizontal planks are connected together by hinges so
-that they form a “curtain.” The curtain is raised by rolling it up by
+that they form a curtain. The curtain is raised by rolling it up by
 means of a traveller. It admits of rapid and accurate adjustment of the
 water-level, but there is considerable scouring action below a curtain
 when it is somewhat raised.
@@ -3482,7 +3482,7 @@ hinged at its lower end and is supported by a strut which slides in
 a groove and rests against a stop. When the water rises to a certain
 height above the top of the shutter, it is turned by the force of
 the water into a horizontal position. The struts can then be pushed
-sideways out of the stops by means of a “tripping bar,” which lies
+sideways out of the stops by means of a tripping bar, which lies
 along the floor parallel to the line of shutters and is worked from the
 bank. The struts, trestles, and shutters then fall flat. To close the
 weir the shutters are first raised into the horizontal position which
@@ -3511,7 +3511,7 @@ necessary.
 
 Chanoine shutters can be very rapidly lowered, and they are used in
 France and in the U.S.A. in places where sudden floods occur. They
-are also used for navigation “passes” where most of the heavy traffic
+are also used for navigation passes where most of the heavy traffic
 is downstream and where it is too heavy to be dealt with in a lock. A
 foot-bridge across the stream or across the navigation pass is always
 an assistance, but sometimes it cannot be used when there is much
@@ -3565,7 +3565,7 @@ weir and allowed to drop down.
 7. =Adjustable Weirs.=--Drum weirs, invented by Desfontaines, have
 been used in France and Germany. Two paddles (fig. 47) are fixed on a
 horizontal axis and can turn through about 90°, the lower paddle, which
-should be slightly the larger, working in a “drum,” which is roofed
+should be slightly the larger, working in a drum, which is roofed
 over and can, by means of sluices, be placed in communication with
 either the upper or lower reach of the stream. According as the upper
 paddle is to be raised or lowered, water is admitted from the upper
@@ -3729,7 +3729,7 @@ necessary, pitching. The former course is usually adopted and is
 the best. But in a case in which the discharge of a stream is to be
 increased or has been underestimated, it is often far easier to add a
 floor to an existing bridge than to increase the span of the bridge. In
-order to increase the waterway the floor can be “dished,” _i.e._ made
+order to increase the waterway the floor can be dished, _i.e._ made
 at a level lower than the bed of the stream[17] and gradually sloped
 up--the slopes being pitched--both upstream and downstream of the
 bridge, to meet the bed.
@@ -3767,7 +3767,7 @@ to strike the bridge obliquely, though this is not the chief reason for
 reducing the length. Long spans, say 250 feet, have been found to be
 better than shorter spans; the cost of the stone protection round the
 piers is of course less (_Government of India Technical Paper_, No.
-153, “River Training and Control on the Guide Bank System,” by Sir F.
+153, River Training and Control on the Guide Bank System, by Sir F.
 J. E. Spring, C.I.E., 1904).
 
 
@@ -3914,7 +3914,7 @@ can be designed in accordance with the principles described in CHAPS.
 X. and XI. For remarks regarding the design of channels and banks, see
 CHAP. IX., _Art. 4_, and also _Art. 6_ of the present Chapter.
 
-In England, land near a stream or flooded area is said to be “awash”
+In England, land near a stream or flooded area is said to be awash
 when the flood water rises to within 3 feet of the surface of the
 ground. The drainage of such land is apt to be unsatisfactory. If land
 is flooded or awash, it may be desirable to shift the outfall of a
@@ -3961,9 +3961,9 @@ perhaps the maximum fall in twenty-four hours, but it has been shown
 (CHAP. II., _Art. 5_) how the probable maximum fall over a shorter
 period may be estimated.
 
-The next thing to be calculated is the “run-off,” _i.e._ the probable
+The next thing to be calculated is the run-off, _i.e._ the probable
 proportion of the rainfall which will at once run off. This may be less
-than the proportion which will eventually become “available,” because
+than the proportion which will eventually become available, because
 some of it may go to feed the underground supply from which springs are
 fed. The proportion running off a small area in a short time would,
 under most circumstances, be rather difficult to estimate, but in the
@@ -3972,9 +3972,9 @@ This occurs when the ground is saturated. Under these circumstances the
 ratio of the run-off to the total fall may be somewhat as follows:--
 
   Steep rocky hillsides  ·70 to ·90
-  Ordinary hills         ·50 ”  ·75
-  Undulating country     ·40 ”  ·50
-  Flat country           ·30 ”  ·35
+  Ordinary hills         ·50   ·75
+  Undulating country     ·40   ·50
+  Flat country           ·30   ·35
 
 The figures can be increased when the surface is specially hard or
 frozen, and decreased when it is soft, sandy, covered with woods or
@@ -4067,17 +4067,17 @@ second.
   |           |         |           |         |   per sec.    |          |
   |      1    |  India. |  Upper    | 5 to 10 |     1613      |          |
   |           |         | Jhelum.   |         |               |          |
-  |      2    |    ”    | Nagpur.   |    6·6  |      480      |          |
+  |      2    |        | Nagpur.   |    6·6  |      480      |          |
   |      3    |  South  |Near Cape  |   34·5  |       78      |          |
   |           | Africa. | Town.     |         |               |          |
   |           |         |           |         |               |          |
-  |      4    |    ”    |Near Port  |   35    |      640      |Estimated.|
+  |      4    |        |Near Port  |   35    |      640      |Estimated.|
   |           |         |Elizabeth  |         |               |          |
   |      5    |New South|South-East |   49    |       37      |          |
   |           |  Wales. | District. |         |               |          |
   |      6    |  India. |  Upper    |   56    |     1000      |          |
   |           |         | Jhelum.   |         |               |          |
-  |      7    |    ”    |    ”      |  174    |      550      |          |
+  |      7    |        |          |  174    |      550      |          |
   |      8    |New South|South-East |  418    |       11·2    |          |
   |           |  Wales. |District.  |         |               |          |
   |      9    |  India. |Kali Nadi  | 2593    |       51      |Estimated |
@@ -4268,7 +4268,7 @@ some continental rivers ice may obstruct the stream and cause floods.
 recent years, done much to increase the severity of floods in England
 and other countries. One method of mitigating or preventing floods
 is the construction of reservoirs for storing the water. Reservoirs
-locally known as “washes,” formed by setting back the embankments,
+locally known as washes, formed by setting back the embankments,
 exist on the Fen rivers. One wash, on the Nene, below Peterborough, is
 12 miles long and half a mile wide and is filled, in floods, to a depth
 of 7 feet and holds 1 inch of rainfall over the river basin, and this
@@ -4293,7 +4293,7 @@ straightening the channel. The efficiency of these processes is in
 the order named. As stated in CHAP. I., _Art. 4_, the alteration to
 the channel must in any case be continued to some point downstream of
 the reach under consideration. Let the channel be supposed to be of
-“shallow” section with sloping sides. Let W be the mean width, D the
+shallow section with sloping sides. Let W be the mean width, D the
 depth, and S the slope. Let it be required to lower the water-level by
 an amount equal to D/5. This can be effected by lowering the bed by
 about 25 per cent. of D, or by increasing the width by about 50 per
@@ -4474,7 +4474,7 @@ away.
 
 In embanking a long reach of a river it is convenient to begin from
 the upstream end, because otherwise floods may get behind the finished
-part of the embankment and, becoming impounded in a “pocket” formed by
+part of the embankment and, becoming impounded in a pocket formed by
 the embankment and high land, rise to an abnormal height and, unless
 gaps in the embankment have been left or are subsequently made, cause
 breaches.
@@ -4508,8 +4508,8 @@ RESERVOIRS AND DAMS
 
 1. =Reservoirs.=--The object of a reservoir is to store water for
 town supply or for irrigation or other purposes. Reservoirs for the
-water supply of towns are divided into “impounding reservoirs” and
-“service reservoirs,” the latter being of comparatively small size,
+water supply of towns are divided into impounding reservoirs and
+service reservoirs, the latter being of comparatively small size,
 and their object being to store, near to the town, a supply sufficient
 for a short period. Instead of one impounding reservoir there may be
 several, formed by various dams and one discharging into another. When
@@ -4517,12 +4517,12 @@ a reservoir is mentioned without qualification, an impounding reservoir
 is meant. A reservoir is generally made by blocking up a valley by
 means of a dam of earth or masonry. The site of the dam should be
 selected at a place where the valley is narrow. The lowest portion or
-“bottom water” of a reservoir is usually not drawn upon, because it is
+bottom water of a reservoir is usually not drawn upon, because it is
 less pure than the rest, and it has to be left, in dry weather, for the
 fish. It is not included in calculating the capacity of the reservoir.
 
 In Great Britain, when the water of a stream is impounded,
-“compensation water” has to be given back to the stream lower down.
+compensation water has to be given back to the stream lower down.
 This compensation water is generally given in the form of a constant
 supply, and amounts to perhaps a quarter of the available supply. It
 has to be included in calculating the daily supply taken out of the
@@ -4605,7 +4605,7 @@ embankments and weirs can be constructed to cause the water to traverse
 the desired route without doing damage. Stepping of the earthwork
 should be avoided as far as possible. If it has to be adopted, the
 steps should be small. Sometimes the flood water is conveyed away by
-means of a “by-wash,” by an entirely different route.
+means of a by-wash, by an entirely different route.
 
 [Illustration: FIG. 57.]
 
@@ -4653,7 +4653,7 @@ is entirely owing to the inequality in the distribution of the
 rainfall. If the rain fell in equal quantities week by week, the daily
 fluctuations could probably be equalised by the service reservoirs. The
 impounding reservoir could be quite small. Actually, a reservoir is
-needed to “equalise” the flow--that is, to give a steady flow for an
+needed to equalise the flow--that is, to give a steady flow for an
 intermittent one. The smaller the reservoir, the sooner it will go dry
 in a drought and the sooner it will overflow in wet weather and cause
 waste of the water. In other words, the larger the reservoir the better
@@ -4680,7 +4680,7 @@ impounded in the year, so that the levels of the reservoir water
 surface on 1st January and 31st December, as shown by the horizontal
 lines A, B at the left and right of the figure, are the same. Deacon,
 who has investigated the subject, has found (_Ency. Brit._, Tenth
-Edition, vol. 33, “Water Supply”) that, in order to satisfy the above
+Edition, vol. 33, Water Supply) that, in order to satisfy the above
 conditions, the capacity of the reservoir must be 30 per cent. of the
 water impounded during the year, or about 110 days’ consumption. On
 1st January the reservoir must be about two-thirds full. At the end
@@ -4833,10 +4833,10 @@ difference of opinion as to the best figure:--
 
   Mean annual fall determined from readings
     of various gauges                          65 inches
-  Mean fall of three driest years              52   ”
+  Mean fall of three driest years              52   
   Deduct loss from evaporation and absorption
-    and losses during floods                   15   ”
-  Available rainfall                           37   ”
+    and losses during floods                   15   
+  Available rainfall                           37   
 
 This multiplied by 44,000 acres, the area of the catchment, gives 102
 million gallons per day. Of this, 27,000,000 gallons is compensation
@@ -4983,7 +4983,7 @@ water leaking through the core-wall, it is desirable to regard the
 earth-filling next to it as staunch.
 
 In Western India a kind of puddle is made by mixing three parts of
-“black cotton soil” with two of sand. The object of the puddle wall is
+black cotton soil with two of sand. The object of the puddle wall is
 only to prevent water from finding its way along the surface of the
 ground. It is carried down only to a fairly water-tight stratum and
 is carried up only to 1 foot above the ground. Above that the mass of
@@ -4993,7 +4993,7 @@ material on both sides of it.
 In order to afford full protection against waves and their splashes,
 the pitching on the upstream face of a dam should extend up to a height
 of 5 feet, measured vertically, above the highest water-level. In the
-case of a dam in which the “fetch” or distance over which the waves
+case of a dam in which the fetch or distance over which the waves
 have been in process of formation exceeds two miles, the above height
 should be slightly increased.[21] The pitching is usually of stones
 roughly squared at their outer ends and laid on a layer of broken
@@ -5096,8 +5096,8 @@ Generally a foundation trench is cut. The ends of the dam are carried
 into the rock on the sides of the gorge. They should not, however,
 if the sides of the gorge are steep, be built in with mortar, but be
 allowed to expand and contract vertically, a water-tight joint being
-made by means of asphalt (_Ency. Brit._, Tenth Edition, vol. 33, “Water
-Supply”). This obviously reduces the straining. A dam should be built
+made by means of asphalt (_Ency. Brit._, Tenth Edition, vol. 33, Water
+Supply). This obviously reduces the straining. A dam should be built
 in cool weather, so that any stresses to which it will eventually be
 subjected owing to changes in temperature will be chiefly compressive.
 The upstream face should be as water-tight as possible. There should
@@ -5146,7 +5146,7 @@ span can be decided on by the methods used for arches in general. The
 lower part of the dam is made thicker. The lowest part cannot act as
 an arch, because it is attached to the foundation. It is, however,
 assisted by the portion above it, which acts as an arch, and thus
-need not be so thick as in a “gravity” section. The Bear Valley dam,
+need not be so thick as in a gravity section. The Bear Valley dam,
 which is 64 feet high, is only 3 feet thick at the top. The thickness
 increases gradually to 8½ feet at 48 feet from the top. The chord
 of the curve is 250 feet and the radius of curvature 335 feet. If
@@ -5246,10 +5246,10 @@ CHAPTER XIV
 TIDAL WATERS AND WORKS
 
 
-1. =Tides.=--The tides or “tidal waves” are caused by the attraction of
+1. =Tides.=--The tides or tidal waves are caused by the attraction of
 the moon and the sun. The phenomena are complex, and a full discussion
 of their causes need not be given here. When the tide rises it is said
-to “flow,” and it is called the flood tide; when it falls it is called
+to flow, and it is called the flood tide; when it falls it is called
 the ebb tide. The period between one tide and the next, _e.g._ from
 high water to high water, is about twelve hours, twenty-five minutes.
 At a spring tide the range of the tide is greater than usual; at a
@@ -5273,7 +5273,7 @@ the range of the tide is double the range in the sea outside the
 channel. The Bay of Fundy is another place where a similar phenomenon
 occurs. When a river or estuary is shallow and the range of the tide
 is great, so that its rise is rapid, the flood tide in some cases
-advances in the form of a wave or “bore,” causing a sudden rise in the
+advances in the form of a wave or bore, causing a sudden rise in the
 water-level and a sudden reversal of the flow of the stream. A bore is
 most pronounced at spring tides. That of the Severn is well known.
 
@@ -5367,7 +5367,7 @@ tidal reach.
 If the sea water is charged with silt, it will of course carry silt
 into the river as it flows up, but the whole volume of water which
 enters has to flow out again. On the whole, the tendency for silt to be
-deposited in the river is due only to the period of “slack tide” near
+deposited in the river is due only to the period of slack tide near
 the time when the flow ceases. The tendency is seldom marked.
 
 If the sea water carries silt and the river water is clear, the latter
@@ -5636,9 +5636,9 @@ the parallel jetty method has succeeded, and notably in the case of the
 Mississippi. In this case willow mattresses weighted with stones were
 used. The question of keeping down the discharge does not, however,
 appear to have always received sufficient attention. In the case of the
-Mississippi the “South pass” was selected for improvement. In order to
+Mississippi the South pass was selected for improvement. In order to
 remove a shoal its upper end was narrowed and its discharge reduced.
-The upper ends of the other “passes” were then obstructed so as to
+The upper ends of the other passes were then obstructed so as to
 restore the discharges of all the passes to their former amounts. The
 wisdom of this step is questionable. It is desirable to keep down the
 discharge of the branch which is to be improved to the lowest limit
@@ -5659,7 +5659,7 @@ the current and assist it.
 
 2. =Other Rivers.=--It often happens that the materials--sand, gravel,
 and shingle--of which a sea beach is composed shift gradually along
-the shore. This is known as “littoral drift.” It is by some supposed
+the shore. This is known as littoral drift. It is by some supposed
 to be due to the action of the tides, and by others to the action of
 waves, the drift taking place in the direction of the prevailing winds,
 excluding those which are off shore. The latter cause is the more
@@ -5729,8 +5729,8 @@ floods was excessive. Orders were given that a flume be made at the
 head, as shown in fig. 71. The sides were to be revetted, as shown
 in fig. 19 (CHAP. VI., _Art. 3_); the length, excluding the splayed
 parts, was to be 200 feet, and the floor was to be a mattress well
-staked or pegged down. The order stated that “by this means we cannot
-get into the canal much more than its true capacity.” With 9 feet of
+staked or pegged down. The order stated that by this means we cannot
+get into the canal much more than its true capacity. With 9 feet of
 water, a surface fall of 4 inches in 300 feet would give a velocity
 of some 6·5 feet per second, and a further fall of about 8 inches
 would be required at the head of the flume to impress this velocity on
@@ -5738,13 +5738,13 @@ the water. The flume would reduce the depth of water in the canal by
 1 foot, _i.e._ from 9 feet to 8 feet. This would not be in anything
 like the proportion desired. Moreover the flume, unless the bed was
 extremely well protected, would be destroyed. The above is a case of
-exaggerating the effect of an “obstruction.”
+exaggerating the effect of an obstruction.
 
 [Illustration: FIG. 71.]
 
-Again, on a branch canal it was observed that “wherever cattle
+Again, on a branch canal it was observed that wherever cattle
 crossings exist there is a deep silt deposit which practically blocks
-the branch.” The deposit exists because the sides of the channel are
+the branch. The deposit exists because the sides of the channel are
 worn down. A wide place always tends to shoal (CHAP. IV., _Art. 9_). If
 the deposit obstructed the flow of water there would be a rush of water
 past it, and it could not exist.
@@ -5771,7 +5771,7 @@ Chenab, at the railway bridge at Shershah, the rise from low water to
 high flood is generally a foot or two more than the rise at a point 25
 miles upstream. It has been suggested that the railway embankments,
 which run across the flooded area, cause a heading up of the stream. If
-this were the case, to any appreciable extent, there would be a “rapid”
+this were the case, to any appreciable extent, there would be a rapid
 through the bridge, which, if it did not destroy the bridge, would at
 least be visible and audible.
 
@@ -5781,7 +5781,7 @@ in CHAP. IV., _Art. 8_. Spring, in his paper on river control, admits,
 when mentioning Dera Ghazi Khan, that there was little danger, but in
 mentioning the Chenab Bridge at Shershah he quotes, without disputing
 it, an opinion of the opposite kind (_Government of India Technical
-Paper_, No. 153, “River Training and Control on the Guide Bank System”).
+Paper_, No. 153, River Training and Control on the Guide Bank System).
 
 For some other fallacies, see _Hydraulics_, CHAP. VII., _Arts. 9_ and
 _15_.
@@ -5915,7 +5915,7 @@ INDEX
 
   -- Ship, 95.
 
-  Catchment area, “yield,” 9.
+  Catchment area, yield, 9.
 
   Channel, alterations in, 4.
 
@@ -6147,7 +6147,7 @@ INDEX
 
   -- British Organisation, 9.
 
-  -- “catchment area,” “basin,” 9.
+  -- catchment area, basin, 9.
 
   -- distribution of, 7.
 
@@ -6422,7 +6422,7 @@ continuation of the weir, between the divide wall and the regulator.
 
 [9] See also Appendix B.
 
-[10] On Indian canals the term “regulation” is applied to the control
+[10] On Indian canals the term regulation is applied to the control
 of the discharge at the regulators or off-take works.
 
 [11] See also Appendix B.

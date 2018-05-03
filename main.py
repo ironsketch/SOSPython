@@ -52,24 +52,34 @@ def findColors(files, folder):
 
         # Reading and stripping annoying shit from my text files
         fh = fh.read()
-        fh = fh.replace('\n', '')
-        fh = fh.replace('\r', '')
-        fh = fh.replace('\\', '')
+        fh = fh.replace('\n', ' ')
+        fh = fh.replace('\r', ' ')
+        fh = fh.replace('\\', ' ')
         fh = fh.replace('!', '. ')
         fh = fh.replace('?', '. ')
-        
+        fh = fh.replace('(', '')
+        fh = fh.replace(')', '')
+        fh = fh.replace('[', '')
+        fh = fh.replace(']', '')
+        fh = fh.replace('{', '')
+        fh = fh.replace('}', '')
+        fh = fh.replace('-', ' ')
+        fh = fh.replace(':', '')
+        fh = fh.replace('"', '')
+
         # Pulling out sentances from the text
         sentances = fh.split('. ')
-        
+ 
         for sentance in sentances:
             
             # Getting rid of unnecessary shit again
             sentance = sentance.replace('.', '')
             sentance = sentance.replace(';', '')
             sentance = sentance.replace(',', '')
-            
-            sentance = sentance.split(' ')
+            sentance = sentance.replace('\'', '')
 
+            sentance = sentance.split(' ')
+            
             for word in sentance:
                 new = True
                 # If the word in the sentance is one of the colors above:
@@ -78,11 +88,11 @@ def findColors(files, folder):
                     for eachNode in nodes:
                         # If the node already exists for the color:
                         if(eachNode.color == word):
-                            print("I already exist! " + word)
+#                            nodes.append(node.Color(word, sentance))
                             new = False
                     if new:
-                        print("I don't exist! " + word)
-                        nodes.append(node.Color(word))
+                        print location
+                        nodes.append(node.Color(word, sentance))
                             
 
 if __name__ == '__main__':
