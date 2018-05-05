@@ -36,6 +36,10 @@ def main():
 
     # Parsing out colors from the files
     findColors(files, folder)
+    
+    for node in nodes:
+        print(node.color)
+        node.printWords()
 
 def openFolder(folder):
     files = []
@@ -91,9 +95,8 @@ def findColors(files, folder):
 #                            nodes.append(node.Color(word, sentance))
                             new = False
                     if new:
-                        print location
                         nodes.append(node.Color(word, sentance))
                             
-
+    
 if __name__ == '__main__':
     main()
